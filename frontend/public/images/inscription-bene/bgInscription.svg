@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="546.743" height="1761.162" viewBox="0 0 546.743 1761.162">
+  <defs>
+    <filter id="Fond_2" x="0" y="0" width="393.869" height="1761.162" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-color="#1a1818" flood-opacity="0.502"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Fond_1" x="97.308" y="0" width="449.436" height="1761.162" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-2"/>
+      <feFlood flood-color="#1a1818" flood-opacity="0.502"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Groupe_552" data-name="Groupe 552" transform="translate(-1390.13 -115)">
+    <g transform="matrix(1, 0, 0, 1, 1390.13, 115)" filter="url(#Fond_2)">
+      <path id="Fond_2-2" data-name="Fond 2" d="M0,0C559.911,504.237,1251.718-121.813,1731.162,101.619v262.25H0Z" transform="translate(15 1746.16) rotate(-90)" fill="#2a9d8f"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 1390.13, 115)" filter="url(#Fond_1)">
+      <path id="Fond_1-2" data-name="Fond 1" d="M1731.162,30.26c-193.038-65.078-435.315-15.777-637.577,58.971C696.377,236.032,196.937,242.056,0,85.919V419.436H1731.162Z" transform="translate(112.31 1746.16) rotate(-90)" fill="#55c2b5"/>
+    </g>
+  </g>
+</svg>

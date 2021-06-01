@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1950" height="1468.436" viewBox="0 0 1950 1468.436">
+  <defs>
+    <filter id="Fond_1" x="0" y="0" width="1950" height="449.436" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-color="#1a1818" flood-opacity="0.502"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Fond_1-2" x="0" y="1019" width="1950" height="449.436" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-2"/>
+      <feFlood flood-color="#1a1818" flood-opacity="0.502"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="bg-accueil" transform="translate(15 -1321.517)">
+    <g transform="matrix(1, 0, 0, 1, -15, 1321.52)" filter="url(#Fond_1)">
+      <path id="Fond_1-3" data-name="Fond 1" d="M1920,30.26c-193.038-65.078-624.153-15.777-826.414,58.971C696.377,236.032,196.937,242.056,0,85.919V419.436H1920Z" transform="translate(15 15)" fill="#55c2b5"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -15, 1321.52)" filter="url(#Fond_1-2)">
+      <path id="Fond_1-4" data-name="Fond 1" d="M0,389.175c193.038,65.078,624.153,15.777,826.414-58.971C1223.623,183.4,1723.063,177.379,1920,333.517V0H0Z" transform="translate(15 1034)" fill="#55c2b5"/>
+    </g>
+  </g>
+</svg>

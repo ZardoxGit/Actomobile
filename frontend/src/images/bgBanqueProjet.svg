@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1532.458" height="3915.372" viewBox="0 0 1532.458 3915.372">
+  <defs>
+    <filter id="Tracé_22865" x="480" y="0" width="1052.458" height="3915.371" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-color="#1a1818" flood-opacity="0.502"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Tracé_22848" x="367" y="0" width="885.316" height="3915.371" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-2"/>
+      <feFlood flood-color="#1a1818" flood-opacity="0.502"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Tracé_22849" x="0" y="0" width="905.642" height="3915.372" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-3"/>
+      <feFlood flood-color="#1a1818" flood-opacity="0.502"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="bgBanqueProjet" transform="translate(1251.82 -692.841) rotate(90)">
+    <g transform="matrix(0, -1, 1, 0, 692.84, 1251.82)" filter="url(#Tracé_22865)">
+      <path id="Tracé_22865-2" data-name="Tracé 22865" d="M707.842,651.6v512.161H4593.213V265.431C3725.864-8.264,1245.5,192.823,707.842,651.6Z" transform="translate(1658.76 -692.84) rotate(90)" fill="#2a9d8f"/>
+    </g>
+    <g transform="matrix(0, -1, 1, 0, 692.84, 1251.82)" filter="url(#Tracé_22848)">
+      <path id="Tracé_22848-2" data-name="Tracé 22848" d="M707.842,590.917v457.7H4593.213V245.807C3295.1,78.539,1291.485,342.8,707.842,590.917Z" transform="translate(1430.62 -692.84) rotate(90)" fill="#55c2b5"/>
+    </g>
+    <g transform="matrix(0, -1, 1, 0, 692.84, 1251.82)" filter="url(#Tracé_22849)">
+      <path id="Tracé_22849-2" data-name="Tracé 22849" d="M4593.213,362.506c-1545.152-227.591-3396.082-5.143-3885.37,152.581v625.8H4593.213Z" transform="translate(1155.89 -692.84) rotate(90)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

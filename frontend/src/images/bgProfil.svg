@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="480.062" height="2347.195" viewBox="0 0 480.062 2347.195">
+  <defs>
+    <filter id="Tracé_22863" x="0" y="0" width="480.062" height="2347.195" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-color="#1a1818" flood-opacity="0.502"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Tracé_22864" x="246.168" y="0" width="233.894" height="2347.195" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-2"/>
+      <feFlood flood-color="#1a1818" flood-opacity="0.502"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="bgProfil" transform="translate(-1813.098 -1478.5)">
+    <g transform="matrix(1, 0, 0, 1, 1813.1, 1478.5)" filter="url(#Tracé_22863)">
+      <path id="Tracé_22863-2" data-name="Tracé 22863" d="M2317.195,245.882C1784.183,424.059,548.79,255.587,0,0V450.062H2317.195Z" transform="translate(15 2332.19) rotate(-90)" fill="#2a9d8f"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 1813.1, 1478.5)" filter="url(#Tracé_22864)">
+      <path id="Tracé_22864-2" data-name="Tracé 22864" d="M2317.195,60.392C1740.177,202.949,477.691,180.387,0,0V203.894H2317.195Z" transform="translate(261.17 2332.19) rotate(-90)" fill="#55c2b5"/>
+    </g>
+  </g>
+</svg>

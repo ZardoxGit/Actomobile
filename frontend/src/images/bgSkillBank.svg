@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1951" height="657.12" viewBox="0 0 1951 657.12">
+  <defs>
+    <filter id="Union_1" x="0" y="0" width="1951" height="657.12" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-color="#1a1818" flood-opacity="0.502"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="bgSkillBank" transform="translate(15.5 15.5)">
+    <g transform="matrix(1, 0, 0, 1, -15.5, -15.5)" filter="url(#Union_1)">
+      <path id="Union_1-2" data-name="Union 1" d="M0,26.887v345.79H1920V76.341c-218.419,138.731-772.339,133.378-1212.875,2.944C555.859,34.5,384.449,0,223.175,0,145.283,0,69.727,8.055,0,26.887ZM0,372.876V625.763c395.809-223.731,1441.89-251.715,1920-74.9V372.876Z" transform="translate(15.5 15.5)" fill="#ab6eec" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1"/>
+    </g>
+  </g>
+</svg>
